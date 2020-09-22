@@ -41,7 +41,13 @@ namespace Triangle.Tests
     public void IsoscelesCheck_TwoSidesNotEqual_false()
     {
       Tracker testTriangle = new Tracker();
-      Assert.AreEqual(false, testTriangle.IsoscelesCheck(5, 5, 5));
+      Assert.AreEqual(false, testTriangle.IsoscelesCheck(3, 4, 5));
+    }
+    [TestMethod]
+    public void ScaleneCheck_AllSidesDifferent_true()
+    {
+      Tracker testTriangle = new Tracker();
+      Assert.AreEqual(true, testTriangle.ScaleneCheck(3, 4, 5));
     }
   }
 }

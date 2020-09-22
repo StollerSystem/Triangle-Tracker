@@ -7,3 +7,5 @@
 /Users/nataliemurphy/Desktop/Epicodus/cSharp/Triangle/Triangle.Solution/Triangle/obj/Debug/netcoreapp2.2/Triangle.AssemblyInfo.cs
 /Users/nataliemurphy/Desktop/Epicodus/cSharp/Triangle/Triangle.Solution/Triangle/obj/Debug/netcoreapp2.2/Triangle.dll
 /Users/nataliemurphy/Desktop/Epicodus/cSharp/Triangle/Triangle.Solution/Triangle/obj/Debug/netcoreapp2.2/Triangle.pdb
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/Triangle/Triangle.Solution/Triangle/bin/Debug/netcoreapp2.2/Triangle.runtimeconfig.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/Triangle/Triangle.Solution/Triangle/bin/Debug/netcoreapp2.2/Triangle.runtimeconfig.dev.json
